@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello VisualStudio Git!\n";
+    std::cout << "new fengqi is open.\n"
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
