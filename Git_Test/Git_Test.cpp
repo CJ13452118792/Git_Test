@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Remote repository\n";
+    std::cout << "Local repository\n";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
